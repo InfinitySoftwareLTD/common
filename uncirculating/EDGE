@@ -1,17 +1,22 @@
 {
-"TESTNET": [
+"testnet": [
+"t7ik68BhB5oDSRfwGg1xssYDEStwPVeJwR",
 "tBK3froSprhoCtEvwvAwDyhEanvFKVga4Q",
 "tQKbUyMQjKjefCagb7JUTR38bNVATvza7k",
 "tDwWEB7CJedDiZfEwfPg8chFpMNp7JjyNJ"
 ],
-"DEVNET": [
+"devnet": [
+"xHYeqv8hz9FJnBH3kopSNeEBE3gcyyf9gY",
 "xKWyu6MMTuX4XGS3K1DmZSxYsUaq2QL9sE",
 "xGdS1nwNzPmxGMC6a2zjg25ZxAMkRM2DLy",
 "xF9T8ypBpgbBR9PFdcnvDkC7nc7erBD7YN"
 ],
-"MAINNET": [
+"mainnet": [
+"GKDEeU1BV6rLSjp2SvMp2tBHXnvgzVPtHK",
 "GWPEqxAfnj9jLyDZJxNdZ6wKu8Ph4BKm8e",
 "Ga1Q9tq4yJwF6Wsd7amyq1BcsoJmHmQvia",
-"GW6dXXzSwDpP5uvsNaxpb7ZNQH7vVn2Umo"
+"GW6dXXzSwDpP5uvsNaxpb7ZNQH7vVn2Umo",
+"GLUTchZZCdYe8X9M1N9rG2CbPcVQWgjx5X",
+"GM1GPqcno9o2sFgCGviQS4skrg4mF4wiCx"
 ]
 }
