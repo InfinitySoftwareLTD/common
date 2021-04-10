@@ -1,0 +1,17 @@
+{
+"TESTNET": [
+"tBK3froSprhoCtEvwvAwDyhEanvFKVga4Q",
+"tQKbUyMQjKjefCagb7JUTR38bNVATvza7k",
+"tDwWEB7CJedDiZfEwfPg8chFpMNp7JjyNJ"
+],
+"DEVNET": [
+"xKWyu6MMTuX4XGS3K1DmZSxYsUaq2QL9sE",
+"xGdS1nwNzPmxGMC6a2zjg25ZxAMkRM2DLy",
+"xF9T8ypBpgbBR9PFdcnvDkC7nc7erBD7YN"
+],
+"MAINNET": [
+"GWPEqxAfnj9jLyDZJxNdZ6wKu8Ph4BKm8e",
+"Ga1Q9tq4yJwF6Wsd7amyq1BcsoJmHmQvia",
+"GW6dXXzSwDpP5uvsNaxpb7ZNQH7vVn2Umo"
+]
+}
