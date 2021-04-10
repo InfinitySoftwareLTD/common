@@ -11,7 +11,7 @@
 				"htlcLock": ["110000", "500000", "1000000"],
 				"htlcClaim": "0",
 				"htlcRefund": "0"	
-	}
+	},
 	"infi": {
 				"transfer": ["110", "500", "1000"],
 				"secondSignature": ["1100", "5000", "10000"],
