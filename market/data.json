@@ -1,11 +1,11 @@
 {
 "RAW": {
 "INFI": {
-"EDGE": {
+"BTC": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
 "FROMSYMBOL": "INFI",
-"TOSYMBOL": "EDGE",
+"TOSYMBOL": "BTC",
 "FLAGS": "2052",
 "PRICE": 0.01,
 "LASTUPDATE": 1618467889,
