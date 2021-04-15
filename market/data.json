@@ -49,8 +49,8 @@
 "USD": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
-"FROMSYMBOL": "USD",
-"TOSYMBOL": "EDGE",
+"FROMSYMBOL": "INFI",
+"TOSYMBOL": "USD",
 "FLAGS": "2052",
 "PRICE": 0.01,
 "LASTUPDATE": 1618467889,
@@ -94,8 +94,8 @@
 "EUR": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
-"FROMSYMBOL": "EUR",
-"TOSYMBOL": "EDGE",
+"FROMSYMBOL": "INFI",
+"TOSYMBOL": "EUR",
 "FLAGS": "2052",
 "PRICE": 0.01,
 "LASTUPDATE": 1618467889,
@@ -139,8 +139,8 @@
 "GBP": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
-"FROMSYMBOL": "GPB",
-"TOSYMBOL": "EDGE",
+"FROMSYMBOL": "INFI",
+"TOSYMBOL": "GPB",
 "FLAGS": "2052",
 "PRICE": 0.01,
 "LASTUPDATE": 1618467889,
@@ -184,8 +184,8 @@
 "KRW": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
-"FROMSYMBOL": "KRW",
-"TOSYMBOL": "EDGE",
+"FROMSYMBOL": "INFI",
+"TOSYMBOL": "KRW",
 "FLAGS": "2052",
 "PRICE": 0.01,
 "LASTUPDATE": 1618467889,
@@ -320,7 +320,7 @@
 "AUD": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "AUD",
 "FLAGS": "2052",
 "PRICE": 3.2613004408,
@@ -367,7 +367,7 @@
 "CAD": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "CAD",
 "FLAGS": "2052",
 "PRICE": 3.1085987415,
@@ -461,7 +461,7 @@
 "INR": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "INR",
 "FLAGS": "2052",
 "PRICE": 170.2976088017,
@@ -508,7 +508,7 @@
 "BRL": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "BRL",
 "FLAGS": "2052",
 "PRICE": 14.3242835261,
@@ -555,7 +555,7 @@
 "CHF": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "CHF",
 "FLAGS": "2052",
 "PRICE": 2.3185242141,
@@ -602,7 +602,7 @@
 "HKD": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "HKD",
 "FLAGS": "2052",
 "PRICE": 19.428023708,
@@ -649,7 +649,7 @@
 "IDR": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "IDR",
 "FLAGS": "2052",
 "PRICE": 37427.44939,
@@ -696,7 +696,7 @@
 "MXN": {
 "TYPE": "5",
 "MARKET": "CCCAGG",
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "MXN",
 "FLAGS": "2052",
 "PRICE": 50.39660708300001,
@@ -743,9 +743,9 @@
 }
 },
 "DISPLAY": {
-"ARK": {
+"INFI": {
 "BTC": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "Ƀ",
 "MARKET": "CryptoCompare Index",
 "PRICE": "Ƀ 0.00003961",
@@ -789,7 +789,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "USD": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "$",
 "MARKET": "CryptoCompare Index",
 "PRICE": "$ 2.50",
@@ -833,7 +833,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "EUR": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "€",
 "MARKET": "CryptoCompare Index",
 "PRICE": "€ 2.09",
@@ -877,7 +877,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "GBP": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "£",
 "MARKET": "CryptoCompare Index",
 "PRICE": "£ 1.82",
@@ -921,7 +921,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "KRW": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "₩",
 "MARKET": "CryptoCompare Index",
 "PRICE": "₩ 3,160.00",
@@ -965,7 +965,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "CNY": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "¥",
 "MARKET": "CryptoCompare Index",
 "PRICE": "¥ 17.10",
@@ -1009,7 +1009,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "JPY": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "¥",
 "MARKET": "CryptoCompare Index",
 "PRICE": "¥ 273.21",
@@ -1053,7 +1053,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "AUD": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "AUD",
 "MARKET": "CryptoCompare Index",
 "PRICE": "AUD 3.26",
@@ -1097,7 +1097,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "CAD": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "CAD",
 "MARKET": "CryptoCompare Index",
 "PRICE": "CAD 3.11",
@@ -1141,7 +1141,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "RUB": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "₽",
 "MARKET": "CryptoCompare Index",
 "PRICE": "₽ 192.56",
@@ -1185,7 +1185,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "INR": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "₹",
 "MARKET": "CryptoCompare Index",
 "PRICE": "₹ 170.30",
@@ -1229,7 +1229,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "BRL": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "R$",
 "MARKET": "CryptoCompare Index",
 "PRICE": "R$ 14.32",
@@ -1273,7 +1273,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "CHF": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "CHF",
 "MARKET": "CryptoCompare Index",
 "PRICE": "CHF 2.32",
@@ -1317,7 +1317,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "HKD": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "HKD",
 "MARKET": "CryptoCompare Index",
 "PRICE": "HKD 19.43",
@@ -1361,7 +1361,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "IDR": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "IDR",
 "MARKET": "CryptoCompare Index",
 "PRICE": "IDR 37,427.4",
@@ -1405,7 +1405,7 @@
 "IMAGEURL": "/media/37746978/ark.png"
 },
 "MXN": {
-"FROMSYMBOL": "ARK",
+"FROMSYMBOL": "INFI",
 "TOSYMBOL": "MXN",
 "MARKET": "CryptoCompare Index",
 "PRICE": "MXN 50.40",
