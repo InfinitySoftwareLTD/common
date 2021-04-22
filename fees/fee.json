@@ -1,5 +1,5 @@
 {
-	"data": {
+	data: {
 	
 		"edge": {
 				"transfer": {"avg":"1220","max":"10000","min":"990"},
