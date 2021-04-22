@@ -1,5 +1,7 @@
 {
-	"edge": {
+	data: {
+	
+		"edge": {
 				"transfer": {"avg":"1220","max":"10000","min":"990"},
 				"secondSignature": {"avg":"5000","max":"10000","min":"1100"}, 
 				"delegateRegistration": {"avg":"5000000","max":"10000000","min":"1001000"},
@@ -11,8 +13,10 @@
 				"htlcLock": {"avg":"500000","max":"1000000","min":"110000"},
 				"htlcClaim": "0",
 				"htlcRefund": "0"	
-	},
-	"infi": {
+	
+		},
+	
+		"infi": {
 				"transfer": {"avg":"500","max":"1000","min":"90"},
 				"secondSignature": {"avg":"5000","max":"10000","min":"1100"},
 				"delegateRegistration": {"avg":"5000000","max":"10000000","min":"1001000"},
@@ -24,5 +28,7 @@
 				"htlcLock": {"avg":"500000","max":"1000000","min":"110000"},
 				"htlcClaim": "0",
 				"htlcRefund": "0"	
+	
+		}
 	}
 }
