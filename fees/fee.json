@@ -2,7 +2,7 @@
 	"data": {
 	
 		"edge": {
-				"transfer": {"avg":"1220","max":"10000","min":"1000"},
+				"transfer": {"avg":"1250","max":"5000","min":"1100"},
 				"secondSignature": {"avg":"5000","max":"10000","min":"1100"}, 
 				"delegateRegistration": {"avg":"5000000","max":"10000000","min":"1001000"},
 				"vote": {"avg":"200000","max":"500000","min":"101000"},
