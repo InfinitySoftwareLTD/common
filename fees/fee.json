@@ -15,7 +15,6 @@
 				"htlcRefund": "0"	
 	
 		},
-	
 		"infi": {
 				"transfer": {"avg":"500","max":"1000","min":"90"},
 				"secondSignature": {"avg":"5000","max":"10000","min":"1100"},
