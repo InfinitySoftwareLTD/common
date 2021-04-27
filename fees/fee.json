@@ -10,7 +10,7 @@
 				"ipfs": {"avg":"500","max":"1000","min":"300"},
 				"multiPayment": {"avg":"200000","max":"500000","min":"101000"},
 				"delegateResignation": {"avg":"500","max":"1000","min":"110"},
-				"htlcLock": {"avg":"500000","max":"1000000","min":"110000"},
+				"htlcLock": {"avg":"350","max":"500","min":"300"},
 				"htlcClaim": "0",
 				"htlcRefund": "0"	
 	
@@ -24,7 +24,7 @@
 				"ipfs": {"avg":"500","max":"1000","min":"300"},
 				"multiPayment": {"avg":"200000","max":"400000","min":"110000"},
 				"delegateResignation": {"avg":"15000","max":"20000","min":"11000"},
-				"htlcLock": {"avg":"500000","max":"1000000","min":"110000"},
+				"htlcLock": {"avg":"350","max":"500","min":"300"},
 				"htlcClaim": "0",
 				"htlcRefund": "0"	
 	
