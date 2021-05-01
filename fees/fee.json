@@ -23,7 +23,7 @@
 				"multiSignature": {"avg":"5000","max":"10000","min":"1100"},
 				"ipfs": {"avg":"500","max":"1000","min":"300"},
 				"multiPayment": {"avg":"200000","max":"400000","min":"110000"},
-				"delegateResignation": {"avg":"12000","max":"15000","min":"11000"},
+				"delegateResignation": {"avg":"1200","max":"1500","min":"1100"},
 				"htlcLock": {"avg":"350","max":"500","min":"300"},
 				"htlcClaim": "0",
 				"htlcRefund": "0"	
