@@ -4,12 +4,12 @@
 		"edge": {
 				"transfer": {"avg":"1250","max":"5000","min":"1100"},
 				"secondSignature": {"avg":"5000","max":"10000","min":"1100"}, 
-				"delegateRegistration": {"avg":"1001000","max":"1001000","min":"1001000"},
+				"delegateRegistration": {"avg":"1001000","max":"10000000","min":"1001000"},
 				"vote": {"avg":"200000","max":"500000","min":"101000"},
 				"multiSignature": {"avg":"5000","max":"10000","min":"1100"},
 				"ipfs": {"avg":"500","max":"1000","min":"300"},
 				"multiPayment": {"avg":"200000","max":"500000","min":"101000"},
-				"delegateResignation": {"avg":"11000","max":"11000","min":"11000"},
+				"delegateResignation": {"avg":"11000","max":"110000","min":"11000"},
 				"htlcLock": {"avg":"350","max":"500","min":"300"},
 				"htlcClaim": "0",
 				"htlcRefund": "0"	
@@ -18,12 +18,12 @@
 		"infi": {
 				"transfer": {"avg":"500","max":"1000","min":"90"},
 				"secondSignature": {"avg":"5000","max":"10000","min":"1100"},
-				"delegateRegistration": {"avg":"1000000","max":"1000000","min":"1000000"},
+				"delegateRegistration": {"avg":"1000000","max":"10000000","min":"1000000"},
 				"vote": {"avg":"200000","max":"5000000","min":"101000"},
 				"multiSignature": {"avg":"5000","max":"10000","min":"1100"},
 				"ipfs": {"avg":"500","max":"1000","min":"300"},
 				"multiPayment": {"avg":"200000","max":"400000","min":"110000"},
-				"delegateResignation": {"avg":"1100","max":"1100","min":"1100"},
+				"delegateResignation": {"avg":"1100","max":"11000","min":"1100"},
 				"htlcLock": {"avg":"350","max":"500","min":"300"},
 				"htlcClaim": "0",
 				"htlcRefund": "0"	
