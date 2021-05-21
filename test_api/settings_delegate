@@ -3,7 +3,7 @@
 	
 		"edge": {
 				"GeocWzPKN1kLWN4xCr4KWr75EBnkRS4ds1": {"confidenceRate":"98","beneficaryRate":"20","requiredMinimumBalance":"2","beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"100"},
-				"GeKPV4gmAhJhhtnWDBrF4d313ZQXPiBx21": {"confidenceRate":"98","requiredMinimumBalance":"12","beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"1100"}
+				"GeKPV4gmAhJhhtnWDBrF4d313ZQXPiBx21": {"confidenceRate":"98","beneficaryRate":"20","requiredMinimumBalance":"12","beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"1100"}
 	
 		},
 		"infi": {
