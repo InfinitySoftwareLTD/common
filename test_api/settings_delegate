@@ -7,6 +7,7 @@
 	
 		},
 		"infi": {
+				"GeocWzPKN1kLWN4xCr4KWr75EBnkRS4ds1": {"confidenceRate":"98","beneficaryRate":"20","requiredMinimumBalance":"2","beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"100","lastUpdate":"1621666329"},
 				"GVqtrvNiQB3pZey1yYjJGxa1TXgMzPNf36": {"confidenceRate":"98","beneficaryRate":"20","requiredMinimumBalance":"1","beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"100","lastUpdate":"1621666329"},
 				"GfCmUizphhiQPS7smGWYbaBKHemEqB39GK": {"confidenceRate":"98","beneficaryRate":"20","requiredMinimumBalance":"12","beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"100","lastUpdate":"1621666329"}
 	
