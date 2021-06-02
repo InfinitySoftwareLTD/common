@@ -3,7 +3,7 @@
 	
 		"edge": {
 				"GgZa7V5o6H3f5wmqoxZXUJauHw1wqKzQ7Y": {"multiPaymentLimit":"300","maintainMinimumBalance":"1000000","confidenceRate":"98","beneficaryRate":"20","beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"100","lastUpdate":"1621666329"},
-				"GeKPV4gmAhJhhtnWDBrF4d313ZQXPiBx21": {"multiPaymentLimit":"300","maintainMinimumBalance":"1000000","confidenceRate":"98","beneficaryRate":"20",,"beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"1100","lastUpdate":"1621666329"}
+				"GeKPV4gmAhJhhtnWDBrF4d313ZQXPiBx21": {"multiPaymentLimit":"300","maintainMinimumBalance":"1000000","confidenceRate":"98","beneficaryRate":"20","beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"1100","lastUpdate":"1621666329"}
 	
 		},
 		"infi": {
