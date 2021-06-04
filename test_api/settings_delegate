@@ -7,7 +7,7 @@
 	
 		},
 		"infi": {
-				"GeocWzPKN1kLWN4xCr4KWr75EBnkRS4ds1": {"multiPaymentLimit":"300","maintainMinimumBalance":"1000000","confidenceRate":"98","beneficaryRate":"12","beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"4000000","lastUpdate":"1621666329"},
+				"GeocWzPKN1kLWN4xCr4KWr75EBnkRS4ds1": {"multiPaymentLimit":"300","maintainMinimumBalance":"1000000","confidenceRate":"98","beneficaryRate":"12","beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"4400000","lastUpdate":"1621666329"},
 				"GVqtrvNiQB3pZey1yYjJGxa1TXgMzPNf36": {"multiPaymentLimit":"300","maintainMinimumBalance":"1000000","confidenceRate":"98","beneficaryRate":"20","beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"100","lastUpdate":"1621666329"},
 				"GfCmUizphhiQPS7smGWYbaBKHemEqB39GK": {"multiPaymentLimit":"300","maintainMinimumBalance":"1000000","confidenceRate":"98","beneficaryRate":"20","beneficaryAddress":"GW9PgHf62vz43DF5vPEw6CSedij4vVunv2","requiredMinimumBalance":"100","lastUpdate":"1621666329"}
 	
