@@ -10,7 +10,7 @@
 				"ipfs": {"avg":"500","max":"1000","min":"300"},
 				"multiPayment": {"avg":"200000","max":"500000","min":"101000"},
 				"delegateResignation": {"avg":"12000","max":"110000","min":"11000"},
-				"htlcLock": {"avg":"100100","max":"101000","min":"100000"},
+				"htlcLock": {"avg":"100100","max":"101000","min":"100010"},
 				"htlcClaim": "0",
 				"htlcRefund": "0"	
 	
