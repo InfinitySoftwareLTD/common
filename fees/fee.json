@@ -19,7 +19,7 @@
 				"transfer": {"avg":"500","max":"1000","min":"90"},
 				"secondSignature": {"avg":"5000","max":"10000","min":"1100"},
 				"delegateRegistration": {"avg":"1001000","max":"10002000","min":"1000000"},
-				"vote": {"avg":"200000","max":"5000000","min":"101000"},
+				"vote": {"avg":"105000","max":"200000","min":"101000"},
 				"multiSignature": {"avg":"5000","max":"10000","min":"1100"},
 				"ipfs": {"avg":"500","max":"1000","min":"300"},
 				"multiPayment": {"avg":"100500","max":"101000","min":"100100"},
