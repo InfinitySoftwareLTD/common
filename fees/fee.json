@@ -18,7 +18,7 @@
 		"infi": {
 				"transfer": {"avg":"500","max":"1000","min":"90"},
 				"secondSignature": {"avg":"5000","max":"10000","min":"1100"},
-				"delegateRegistration": {"avg":"1001000","max":"10002000","min":"1000000"},
+				"delegateRegistration": {"avg":"1000001000","max":"1000003000","min":"1000000000"},
 				"vote": {"avg":"105000","max":"200000","min":"101000"},
 				"multiSignature": {"avg":"5000","max":"10000","min":"1100"},
 				"ipfs": {"avg":"500","max":"1000","min":"300"},
