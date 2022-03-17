@@ -1,16 +1,15 @@
 INFI_EDGE{
-	exchange{
+		{
 		"status": "Enable",
 		"website": "https://infinitypay.io",
 		"display": "wallet"
-		}
-	},
-	exchange{
+		},
+		{
 		"status": "Enable",
 		"website": "https://dev.infinitypay.io",
 		"display": "wallet"
 		}
-	}
+	},
 INFI_ETH{
 	exchange{
 		"status": "Enable",
