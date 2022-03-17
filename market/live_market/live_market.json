@@ -20,9 +20,9 @@ INFI_ETH{
 	},
 INFI_EUR{
 	exchange{
-		"status": "Enable"
+		"status": "Enable",
 		"website": "https://folgory.com/trade-crypto/INFI_EUR",
-		"display": "onlyLink",
+		"display": "onlyLink"
 		}
 	},
 INFI_GBP{
