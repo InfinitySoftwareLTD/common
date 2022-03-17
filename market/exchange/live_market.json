@@ -8,25 +8,25 @@
 		"status": "disable",
 		"website": "https://dev.infinitypay.io",
 		"display": "wallet"
-		},
+		}
 "INFI_ETH":
 		{
 		"status": "Enable",
 		"website": "https://folgory.com/trade-crypto/INFI_ETH",
 		"display": "onlyLink"
-		},
+		}
 "INFI_EUR":
 		{
 		"status": "Enable",
 		"website": "https://folgory.com/trade-crypto/INFI_EUR",
 		"display": "onlyLink"
-		},
+		}
 "INFI_GBP":
 		{
 		"status": "Enable",
 		"website": "https://folgory.com/trade-crypto/INFI_GBP",
 		"display": "onlyLink",
-		},
+		}
 "INFI_USDT":
 		{
 		"status": "Enable",
